@@ -1,0 +1,5 @@
+﻿pollutant,mean,std_err,,y,seen
+CO,0.351911,0.033563,95%,Interval,0.4
+NO2,19.021429,2.200518,95%,Interval,16
+O3,0.043982,0.001822,95%,Interval,0.05
+SO2,0.207143,0.037518,95%,Interval,0.15

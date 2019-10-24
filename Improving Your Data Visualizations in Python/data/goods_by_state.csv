@@ -1,0 +1,1422 @@
+,state,good,prop_selling
+0,Alabama,Bakedgoods,0.760563
+1,Alabama,Beans,0.084507
+2,Alabama,Cheese,0.225352
+3,Alabama,Coffee,0.197183
+4,Alabama,Crafts,0.422535
+5,Alabama,Eggs,0.591549
+6,Alabama,Flowers,0.43662
+7,Alabama,Fruits,0.760563
+8,Alabama,Grains,0.098592
+9,Alabama,Herbs,0.619718
+10,Alabama,Honey,0.859155
+11,Alabama,Jams,0.859155
+12,Alabama,Juices,0.112676
+13,Alabama,Maple,0.014085
+14,Alabama,Meat,0.253521
+15,Alabama,Mushrooms,0.056338
+16,Alabama,Nursery,0.070423
+17,Alabama,Nuts,0.267606
+18,Alabama,PetFood,0.112676
+19,Alabama,Plants,0.591549
+20,Alabama,Poultry,0.197183
+21,Alabama,Prepared,0.408451
+22,Alabama,Seafood,0.056338
+23,Alabama,Soap,0.535211
+24,Alabama,Tofu,0.014085
+25,Alabama,Trees,0.295775
+26,Alabama,Vegetables,0.957746
+27,Alabama,WildHarvested,0.098592
+28,Alabama,Wine,0
+29,Arizona,Bakedgoods,0.80303
+30,Arizona,Beans,0.530303
+31,Arizona,Cheese,0.484848
+32,Arizona,Coffee,0.69697
+33,Arizona,Crafts,0.636364
+34,Arizona,Eggs,0.757576
+35,Arizona,Flowers,0.454545
+36,Arizona,Fruits,0.909091
+37,Arizona,Grains,0.378788
+38,Arizona,Herbs,0.787879
+39,Arizona,Honey,0.787879
+40,Arizona,Jams,0.818182
+41,Arizona,Juices,0.484848
+42,Arizona,Maple,0.181818
+43,Arizona,Meat,0.484848
+44,Arizona,Mushrooms,0.272727
+45,Arizona,Nursery,0
+46,Arizona,Nuts,0.530303
+47,Arizona,PetFood,0.439394
+48,Arizona,Plants,0.666667
+49,Arizona,Poultry,0.409091
+50,Arizona,Prepared,0.772727
+51,Arizona,Seafood,0.318182
+52,Arizona,Soap,0.787879
+53,Arizona,Tofu,0.075758
+54,Arizona,Trees,0.363636
+55,Arizona,Vegetables,0.909091
+56,Arizona,WildHarvested,0.227273
+57,Arizona,Wine,0.090909
+58,Arkansas,Bakedgoods,0.915254
+59,Arkansas,Beans,0.135593
+60,Arkansas,Cheese,0.20339
+61,Arkansas,Coffee,0.389831
+62,Arkansas,Crafts,0.830508
+63,Arkansas,Eggs,0.864407
+64,Arkansas,Flowers,0.745763
+65,Arkansas,Fruits,0.864407
+66,Arkansas,Grains,0.152542
+67,Arkansas,Herbs,0.694915
+68,Arkansas,Honey,0.847458
+69,Arkansas,Jams,0.898305
+70,Arkansas,Juices,0.118644
+71,Arkansas,Maple,0.101695
+72,Arkansas,Meat,0.508475
+73,Arkansas,Mushrooms,0.169492
+74,Arkansas,Nursery,0.016949
+75,Arkansas,Nuts,0.237288
+76,Arkansas,PetFood,0.254237
+77,Arkansas,Plants,0.677966
+78,Arkansas,Poultry,0.355932
+79,Arkansas,Prepared,0.423729
+80,Arkansas,Seafood,0.050847
+81,Arkansas,Soap,0.745763
+82,Arkansas,Tofu,0
+83,Arkansas,Trees,0.271186
+84,Arkansas,Vegetables,0.949153
+85,Arkansas,WildHarvested,0.152542
+86,Arkansas,Wine,0.033898
+87,California,Bakedgoods,0.868778
+88,California,Beans,0.192308
+89,California,Cheese,0.538462
+90,California,Coffee,0.364253
+91,California,Crafts,0.475113
+92,California,Eggs,0.726244
+93,California,Flowers,0.78733
+94,California,Fruits,0.823529
+95,California,Grains,0.142534
+96,California,Herbs,0.78733
+97,California,Honey,0.839367
+98,California,Jams,0.699095
+99,California,Juices,0.411765
+100,California,Maple,0.047511
+101,California,Meat,0.445701
+102,California,Mushrooms,0.29638
+103,California,Nursery,0.065611
+104,California,Nuts,0.717195
+105,California,PetFood,0.099548
+106,California,Plants,0.549774
+107,California,Poultry,0.404977
+108,California,Prepared,0.807692
+109,California,Seafood,0.438914
+110,California,Soap,0.59276
+111,California,Tofu,0.090498
+112,California,Trees,0.386878
+113,California,Vegetables,0.963801
+114,California,WildHarvested,0.076923
+115,California,Wine,0.153846
+116,Colorado,Bakedgoods,0.918367
+117,Colorado,Beans,0.214286
+118,Colorado,Cheese,0.530612
+119,Colorado,Coffee,0.55102
+120,Colorado,Crafts,0.77551
+121,Colorado,Eggs,0.765306
+122,Colorado,Flowers,0.653061
+123,Colorado,Fruits,0.806122
+124,Colorado,Grains,0.214286
+125,Colorado,Herbs,0.765306
+126,Colorado,Honey,0.887755
+127,Colorado,Jams,0.887755
+128,Colorado,Juices,0.387755
+129,Colorado,Maple,0.173469
+130,Colorado,Meat,0.714286
+131,Colorado,Mushrooms,0.27551
+132,Colorado,Nursery,0.071429
+133,Colorado,Nuts,0.255102
+134,Colorado,PetFood,0.27551
+135,Colorado,Plants,0.663265
+136,Colorado,Poultry,0.428571
+137,Colorado,Prepared,0.816327
+138,Colorado,Seafood,0.306122
+139,Colorado,Soap,0.887755
+140,Colorado,Tofu,0.05102
+141,Colorado,Trees,0.142857
+142,Colorado,Vegetables,0.959184
+143,Colorado,WildHarvested,0.173469
+144,Colorado,Wine,0.306122
+145,Connecticut,Bakedgoods,0.962963
+146,Connecticut,Beans,0.148148
+147,Connecticut,Cheese,0.796296
+148,Connecticut,Coffee,0.5
+149,Connecticut,Crafts,0.611111
+150,Connecticut,Eggs,0.833333
+151,Connecticut,Flowers,0.851852
+152,Connecticut,Fruits,0.87037
+153,Connecticut,Grains,0.111111
+154,Connecticut,Herbs,0.796296
+155,Connecticut,Honey,0.907407
+156,Connecticut,Jams,0.907407
+157,Connecticut,Juices,0.203704
+158,Connecticut,Maple,0.814815
+159,Connecticut,Meat,0.722222
+160,Connecticut,Mushrooms,0.37037
+161,Connecticut,Nursery,0.037037
+162,Connecticut,Nuts,0.092593
+163,Connecticut,PetFood,0.240741
+164,Connecticut,Plants,0.592593
+165,Connecticut,Poultry,0.574074
+166,Connecticut,Prepared,0.814815
+167,Connecticut,Seafood,0.277778
+168,Connecticut,Soap,0.888889
+169,Connecticut,Tofu,0
+170,Connecticut,Trees,0.222222
+171,Connecticut,Vegetables,0.981481
+172,Connecticut,WildHarvested,0.037037
+173,Connecticut,Wine,0.111111
+174,Delaware,Bakedgoods,0.678571
+175,Delaware,Beans,0
+176,Delaware,Cheese,0.464286
+177,Delaware,Coffee,0.321429
+178,Delaware,Crafts,0.285714
+179,Delaware,Eggs,0.75
+180,Delaware,Flowers,0.714286
+181,Delaware,Fruits,0.785714
+182,Delaware,Grains,0.107143
+183,Delaware,Herbs,0.678571
+184,Delaware,Honey,0.714286
+185,Delaware,Jams,0.714286
+186,Delaware,Juices,0.214286
+187,Delaware,Maple,0.142857
+188,Delaware,Meat,0.678571
+189,Delaware,Mushrooms,0.357143
+190,Delaware,Nursery,0.071429
+191,Delaware,Nuts,0.142857
+192,Delaware,PetFood,0.142857
+193,Delaware,Plants,0.535714
+194,Delaware,Poultry,0.571429
+195,Delaware,Prepared,0.607143
+196,Delaware,Seafood,0.178571
+197,Delaware,Soap,0.571429
+198,Delaware,Tofu,0
+199,Delaware,Trees,0.214286
+200,Delaware,Vegetables,0.857143
+201,Delaware,WildHarvested,0.071429
+202,Delaware,Wine,0.071429
+203,District of Columbia,Bakedgoods,0.886364
+204,District of Columbia,Beans,0.363636
+205,District of Columbia,Cheese,0.590909
+206,District of Columbia,Coffee,0.409091
+207,District of Columbia,Crafts,0.204545
+208,District of Columbia,Eggs,0.863636
+209,District of Columbia,Flowers,0.727273
+210,District of Columbia,Fruits,0.909091
+211,District of Columbia,Grains,0.068182
+212,District of Columbia,Herbs,0.886364
+213,District of Columbia,Honey,0.613636
+214,District of Columbia,Jams,0.454545
+215,District of Columbia,Juices,0.409091
+216,District of Columbia,Maple,0.090909
+217,District of Columbia,Meat,0.727273
+218,District of Columbia,Mushrooms,0.477273
+219,District of Columbia,Nursery,0
+220,District of Columbia,Nuts,0.181818
+221,District of Columbia,PetFood,0.113636
+222,District of Columbia,Plants,0.318182
+223,District of Columbia,Poultry,0.681818
+224,District of Columbia,Prepared,0.431818
+225,District of Columbia,Seafood,0.409091
+226,District of Columbia,Soap,0.113636
+227,District of Columbia,Tofu,0.045455
+228,District of Columbia,Trees,0.045455
+229,District of Columbia,Vegetables,0.954545
+230,District of Columbia,WildHarvested,0.068182
+231,District of Columbia,Wine,0.068182
+232,Florida,Bakedgoods,0.923077
+233,Florida,Beans,0.198718
+234,Florida,Cheese,0.653846
+235,Florida,Coffee,0.467949
+236,Florida,Crafts,0.737179
+237,Florida,Eggs,0.75641
+238,Florida,Flowers,0.621795
+239,Florida,Fruits,0.807692
+240,Florida,Grains,0.25
+241,Florida,Herbs,0.878205
+242,Florida,Honey,0.929487
+243,Florida,Jams,0.916667
+244,Florida,Juices,0.423077
+245,Florida,Maple,0.358974
+246,Florida,Meat,0.49359
+247,Florida,Mushrooms,0.326923
+248,Florida,Nursery,0.083333
+249,Florida,Nuts,0.538462
+250,Florida,PetFood,0.410256
+251,Florida,Plants,0.794872
+252,Florida,Poultry,0.429487
+253,Florida,Prepared,0.807692
+254,Florida,Seafood,0.570513
+255,Florida,Soap,0.814103
+256,Florida,Tofu,0.102564
+257,Florida,Trees,0.666667
+258,Florida,Vegetables,0.967949
+259,Florida,WildHarvested,0.237179
+260,Florida,Wine,0.051282
+261,Georgia,Bakedgoods,0.927419
+262,Georgia,Beans,0.120968
+263,Georgia,Cheese,0.58871
+264,Georgia,Coffee,0.379032
+265,Georgia,Crafts,0.637097
+266,Georgia,Eggs,0.790323
+267,Georgia,Flowers,0.677419
+268,Georgia,Fruits,0.822581
+269,Georgia,Grains,0.225806
+270,Georgia,Herbs,0.798387
+271,Georgia,Honey,0.919355
+272,Georgia,Jams,0.903226
+273,Georgia,Juices,0.298387
+274,Georgia,Maple,0.153226
+275,Georgia,Meat,0.572581
+276,Georgia,Mushrooms,0.306452
+277,Georgia,Nursery,0.032258
+278,Georgia,Nuts,0.435484
+279,Georgia,PetFood,0.258065
+280,Georgia,Plants,0.612903
+281,Georgia,Poultry,0.419355
+282,Georgia,Prepared,0.548387
+283,Georgia,Seafood,0.258065
+284,Georgia,Soap,0.806452
+285,Georgia,Tofu,0.056452
+286,Georgia,Trees,0.370968
+287,Georgia,Vegetables,0.927419
+288,Georgia,WildHarvested,0.217742
+289,Georgia,Wine,0.032258
+290,Idaho,Bakedgoods,0.918919
+291,Idaho,Beans,0.054054
+292,Idaho,Cheese,0.513514
+293,Idaho,Coffee,0.243243
+294,Idaho,Crafts,0.864865
+295,Idaho,Eggs,0.675676
+296,Idaho,Flowers,0.756757
+297,Idaho,Fruits,0.621622
+298,Idaho,Grains,0.189189
+299,Idaho,Herbs,0.918919
+300,Idaho,Honey,0.864865
+301,Idaho,Jams,0.891892
+302,Idaho,Juices,0.135135
+303,Idaho,Maple,0.135135
+304,Idaho,Meat,0.513514
+305,Idaho,Mushrooms,0.108108
+306,Idaho,Nursery,0.108108
+307,Idaho,Nuts,0.27027
+308,Idaho,PetFood,0.081081
+309,Idaho,Plants,0.810811
+310,Idaho,Poultry,0.243243
+311,Idaho,Prepared,0.864865
+312,Idaho,Seafood,0.108108
+313,Idaho,Soap,0.891892
+314,Idaho,Tofu,0
+315,Idaho,Trees,0.324324
+316,Idaho,Vegetables,0.972973
+317,Idaho,WildHarvested,0.135135
+318,Idaho,Wine,0.243243
+319,Illinois,Bakedgoods,0.926702
+320,Illinois,Beans,0.167539
+321,Illinois,Cheese,0.528796
+322,Illinois,Coffee,0.408377
+323,Illinois,Crafts,0.596859
+324,Illinois,Eggs,0.633508
+325,Illinois,Flowers,0.722513
+326,Illinois,Fruits,0.82199
+327,Illinois,Grains,0.188482
+328,Illinois,Herbs,0.801047
+329,Illinois,Honey,0.780105
+330,Illinois,Jams,0.769634
+331,Illinois,Juices,0.225131
+332,Illinois,Maple,0.282723
+333,Illinois,Meat,0.581152
+334,Illinois,Mushrooms,0.293194
+335,Illinois,Nursery,0.04712
+336,Illinois,Nuts,0.277487
+337,Illinois,PetFood,0.324607
+338,Illinois,Plants,0.717277
+339,Illinois,Poultry,0.492147
+340,Illinois,Prepared,0.633508
+341,Illinois,Seafood,0.21466
+342,Illinois,Soap,0.696335
+343,Illinois,Tofu,0.099476
+344,Illinois,Trees,0.26178
+345,Illinois,Vegetables,0.958115
+346,Illinois,WildHarvested,0.136126
+347,Illinois,Wine,0.068063
+348,Indiana,Bakedgoods,0.979167
+349,Indiana,Beans,0.125
+350,Indiana,Cheese,0.527778
+351,Indiana,Coffee,0.444444
+352,Indiana,Crafts,0.805556
+353,Indiana,Eggs,0.756944
+354,Indiana,Flowers,0.770833
+355,Indiana,Fruits,0.854167
+356,Indiana,Grains,0.1875
+357,Indiana,Herbs,0.770833
+358,Indiana,Honey,0.895833
+359,Indiana,Jams,0.861111
+360,Indiana,Juices,0.194444
+361,Indiana,Maple,0.541667
+362,Indiana,Meat,0.645833
+363,Indiana,Mushrooms,0.222222
+364,Indiana,Nursery,0.034722
+365,Indiana,Nuts,0.243056
+366,Indiana,PetFood,0.298611
+367,Indiana,Plants,0.888889
+368,Indiana,Poultry,0.4375
+369,Indiana,Prepared,0.631944
+370,Indiana,Seafood,0.104167
+371,Indiana,Soap,0.833333
+372,Indiana,Tofu,0.006944
+373,Indiana,Trees,0.256944
+374,Indiana,Vegetables,0.986111
+375,Indiana,WildHarvested,0.173611
+376,Indiana,Wine,0.083333
+377,Iowa,Bakedgoods,0.980198
+378,Iowa,Beans,0.069307
+379,Iowa,Cheese,0.227723
+380,Iowa,Coffee,0.247525
+381,Iowa,Crafts,0.841584
+382,Iowa,Eggs,0.821782
+383,Iowa,Flowers,0.732673
+384,Iowa,Fruits,0.782178
+385,Iowa,Grains,0.09901
+386,Iowa,Herbs,0.811881
+387,Iowa,Honey,0.831683
+388,Iowa,Jams,0.920792
+389,Iowa,Juices,0.148515
+390,Iowa,Maple,0.188119
+391,Iowa,Meat,0.475248
+392,Iowa,Mushrooms,0.118812
+393,Iowa,Nursery,0.069307
+394,Iowa,Nuts,0.376238
+395,Iowa,PetFood,0.188119
+396,Iowa,Plants,0.811881
+397,Iowa,Poultry,0.306931
+398,Iowa,Prepared,0.534653
+399,Iowa,Seafood,0.059406
+400,Iowa,Soap,0.653465
+401,Iowa,Tofu,0.009901
+402,Iowa,Trees,0.158416
+403,Iowa,Vegetables,0.980198
+404,Iowa,WildHarvested,0.108911
+405,Iowa,Wine,0.207921
+406,Kansas,Bakedgoods,0.948052
+407,Kansas,Beans,0.064935
+408,Kansas,Cheese,0.155844
+409,Kansas,Coffee,0.220779
+410,Kansas,Crafts,0.688312
+411,Kansas,Eggs,0.792208
+412,Kansas,Flowers,0.623377
+413,Kansas,Fruits,0.766234
+414,Kansas,Grains,0.181818
+415,Kansas,Herbs,0.714286
+416,Kansas,Honey,0.818182
+417,Kansas,Jams,0.896104
+418,Kansas,Juices,0.155844
+419,Kansas,Maple,0.077922
+420,Kansas,Meat,0.493506
+421,Kansas,Mushrooms,0.12987
+422,Kansas,Nursery,0.012987
+423,Kansas,Nuts,0.311688
+424,Kansas,PetFood,0.155844
+425,Kansas,Plants,0.623377
+426,Kansas,Poultry,0.298701
+427,Kansas,Prepared,0.493506
+428,Kansas,Seafood,0
+429,Kansas,Soap,0.584416
+430,Kansas,Tofu,0
+431,Kansas,Trees,0.168831
+432,Kansas,Vegetables,0.948052
+433,Kansas,WildHarvested,0.103896
+434,Kansas,Wine,0.077922
+435,Kentucky,Bakedgoods,0.863158
+436,Kentucky,Beans,0.178947
+437,Kentucky,Cheese,0.315789
+438,Kentucky,Coffee,0.189474
+439,Kentucky,Crafts,0.663158
+440,Kentucky,Eggs,0.8
+441,Kentucky,Flowers,0.663158
+442,Kentucky,Fruits,0.863158
+443,Kentucky,Grains,0.115789
+444,Kentucky,Herbs,0.789474
+445,Kentucky,Honey,0.894737
+446,Kentucky,Jams,0.842105
+447,Kentucky,Juices,0.147368
+448,Kentucky,Maple,0.294737
+449,Kentucky,Meat,0.568421
+450,Kentucky,Mushrooms,0.168421
+451,Kentucky,Nursery,0.084211
+452,Kentucky,Nuts,0.210526
+453,Kentucky,PetFood,0.147368
+454,Kentucky,Plants,0.757895
+455,Kentucky,Poultry,0.421053
+456,Kentucky,Prepared,0.368421
+457,Kentucky,Seafood,0.105263
+458,Kentucky,Soap,0.715789
+459,Kentucky,Tofu,0
+460,Kentucky,Trees,0.294737
+461,Kentucky,Vegetables,0.968421
+462,Kentucky,WildHarvested,0.084211
+463,Kentucky,Wine,0.157895
+464,Louisiana,Bakedgoods,0.842105
+465,Louisiana,Beans,0.157895
+466,Louisiana,Cheese,0.421053
+467,Louisiana,Coffee,0.298246
+468,Louisiana,Crafts,0.578947
+469,Louisiana,Eggs,0.736842
+470,Louisiana,Flowers,0.473684
+471,Louisiana,Fruits,0.789474
+472,Louisiana,Grains,0.192982
+473,Louisiana,Herbs,0.719298
+474,Louisiana,Honey,0.842105
+475,Louisiana,Jams,0.894737
+476,Louisiana,Juices,0.22807
+477,Louisiana,Maple,0.035088
+478,Louisiana,Meat,0.333333
+479,Louisiana,Mushrooms,0.157895
+480,Louisiana,Nursery,0.087719
+481,Louisiana,Nuts,0.350877
+482,Louisiana,PetFood,0.157895
+483,Louisiana,Plants,0.666667
+484,Louisiana,Poultry,0.315789
+485,Louisiana,Prepared,0.649123
+486,Louisiana,Seafood,0.438596
+487,Louisiana,Soap,0.684211
+488,Louisiana,Tofu,0.070175
+489,Louisiana,Trees,0.403509
+490,Louisiana,Vegetables,1
+491,Louisiana,WildHarvested,0.245614
+492,Louisiana,Wine,0.175439
+493,Maine,Bakedgoods,0.878788
+494,Maine,Beans,0.287879
+495,Maine,Cheese,0.787879
+496,Maine,Coffee,0.287879
+497,Maine,Crafts,0.681818
+498,Maine,Eggs,0.833333
+499,Maine,Flowers,0.818182
+500,Maine,Fruits,0.787879
+501,Maine,Grains,0.166667
+502,Maine,Herbs,0.939394
+503,Maine,Honey,0.681818
+504,Maine,Jams,0.848485
+505,Maine,Juices,0.242424
+506,Maine,Maple,0.787879
+507,Maine,Meat,0.863636
+508,Maine,Mushrooms,0.272727
+509,Maine,Nursery,0.060606
+510,Maine,Nuts,0.030303
+511,Maine,PetFood,0.106061
+512,Maine,Plants,0.742424
+513,Maine,Poultry,0.575758
+514,Maine,Prepared,0.575758
+515,Maine,Seafood,0.318182
+516,Maine,Soap,0.757576
+517,Maine,Tofu,0.030303
+518,Maine,Trees,0.212121
+519,Maine,Vegetables,0.924242
+520,Maine,WildHarvested,0.257576
+521,Maine,Wine,0.181818
+522,Maryland,Bakedgoods,0.965217
+523,Maryland,Beans,0.069565
+524,Maryland,Cheese,0.469565
+525,Maryland,Coffee,0.347826
+526,Maryland,Crafts,0.565217
+527,Maryland,Eggs,0.878261
+528,Maryland,Flowers,0.713043
+529,Maryland,Fruits,0.773913
+530,Maryland,Grains,0.052174
+531,Maryland,Herbs,0.826087
+532,Maryland,Honey,0.8
+533,Maryland,Jams,0.834783
+534,Maryland,Juices,0.252174
+535,Maryland,Maple,0.165217
+536,Maryland,Meat,0.617391
+537,Maryland,Mushrooms,0.226087
+538,Maryland,Nursery,0.147826
+539,Maryland,Nuts,0.243478
+540,Maryland,PetFood,0.165217
+541,Maryland,Plants,0.765217
+542,Maryland,Poultry,0.591304
+543,Maryland,Prepared,0.626087
+544,Maryland,Seafood,0.243478
+545,Maryland,Soap,0.721739
+546,Maryland,Tofu,0.043478
+547,Maryland,Trees,0.2
+548,Maryland,Vegetables,0.973913
+549,Maryland,WildHarvested,0.113043
+550,Maryland,Wine,0.330435
+551,Massachusetts,Bakedgoods,0.883333
+552,Massachusetts,Beans,0.075
+553,Massachusetts,Cheese,0.583333
+554,Massachusetts,Coffee,0.416667
+555,Massachusetts,Crafts,0.554167
+556,Massachusetts,Eggs,0.829167
+557,Massachusetts,Flowers,0.620833
+558,Massachusetts,Fruits,0.820833
+559,Massachusetts,Grains,0.083333
+560,Massachusetts,Herbs,0.729167
+561,Massachusetts,Honey,0.820833
+562,Massachusetts,Jams,0.775
+563,Massachusetts,Juices,0.283333
+564,Massachusetts,Maple,0.65
+565,Massachusetts,Meat,0.65
+566,Massachusetts,Mushrooms,0.220833
+567,Massachusetts,Nursery,0.075
+568,Massachusetts,Nuts,0.1375
+569,Massachusetts,PetFood,0.225
+570,Massachusetts,Plants,0.529167
+571,Massachusetts,Poultry,0.579167
+572,Massachusetts,Prepared,0.645833
+573,Massachusetts,Seafood,0.404167
+574,Massachusetts,Soap,0.654167
+575,Massachusetts,Tofu,0.05
+576,Massachusetts,Trees,0.1
+577,Massachusetts,Vegetables,0.958333
+578,Massachusetts,WildHarvested,0.120833
+579,Massachusetts,Wine,0.2875
+580,Michigan,Bakedgoods,0.920168
+581,Michigan,Beans,0.189076
+582,Michigan,Cheese,0.457983
+583,Michigan,Coffee,0.348739
+584,Michigan,Crafts,0.689076
+585,Michigan,Eggs,0.764706
+586,Michigan,Flowers,0.773109
+587,Michigan,Fruits,0.848739
+588,Michigan,Grains,0.134454
+589,Michigan,Herbs,0.819328
+590,Michigan,Honey,0.852941
+591,Michigan,Jams,0.844538
+592,Michigan,Juices,0.180672
+593,Michigan,Maple,0.726891
+594,Michigan,Meat,0.445378
+595,Michigan,Mushrooms,0.252101
+596,Michigan,Nursery,0.037815
+597,Michigan,Nuts,0.205882
+598,Michigan,PetFood,0.189076
+599,Michigan,Plants,0.756303
+600,Michigan,Poultry,0.420168
+601,Michigan,Prepared,0.613445
+602,Michigan,Seafood,0.201681
+603,Michigan,Soap,0.739496
+604,Michigan,Tofu,0.046218
+605,Michigan,Trees,0.306723
+606,Michigan,Vegetables,0.92437
+607,Michigan,WildHarvested,0.184874
+608,Michigan,Wine,0.147059
+609,Minnesota,Bakedgoods,0.818898
+610,Minnesota,Beans,0.094488
+611,Minnesota,Cheese,0.283465
+612,Minnesota,Coffee,0.275591
+613,Minnesota,Crafts,0.653543
+614,Minnesota,Eggs,0.700787
+615,Minnesota,Flowers,0.692913
+616,Minnesota,Fruits,0.708661
+617,Minnesota,Grains,0.165354
+618,Minnesota,Herbs,0.755906
+619,Minnesota,Honey,0.708661
+620,Minnesota,Jams,0.850394
+621,Minnesota,Juices,0.125984
+622,Minnesota,Maple,0.559055
+623,Minnesota,Meat,0.401575
+624,Minnesota,Mushrooms,0.149606
+625,Minnesota,Nursery,0.047244
+626,Minnesota,Nuts,0.110236
+627,Minnesota,PetFood,0.07874
+628,Minnesota,Plants,0.645669
+629,Minnesota,Poultry,0.448819
+630,Minnesota,Prepared,0.503937
+631,Minnesota,Seafood,0.15748
+632,Minnesota,Soap,0.606299
+633,Minnesota,Tofu,0.015748
+634,Minnesota,Trees,0.19685
+635,Minnesota,Vegetables,0.937008
+636,Minnesota,WildHarvested,0.125984
+637,Minnesota,Wine,0.007874
+638,Mississippi,Bakedgoods,0.866667
+639,Mississippi,Beans,0.044444
+640,Mississippi,Cheese,0.533333
+641,Mississippi,Coffee,0.311111
+642,Mississippi,Crafts,0.577778
+643,Mississippi,Eggs,0.666667
+644,Mississippi,Flowers,0.755556
+645,Mississippi,Fruits,0.777778
+646,Mississippi,Grains,0.111111
+647,Mississippi,Herbs,0.822222
+648,Mississippi,Honey,0.822222
+649,Mississippi,Jams,0.911111
+650,Mississippi,Juices,0.111111
+651,Mississippi,Maple,0.022222
+652,Mississippi,Meat,0.288889
+653,Mississippi,Mushrooms,0.133333
+654,Mississippi,Nursery,0.066667
+655,Mississippi,Nuts,0.466667
+656,Mississippi,PetFood,0.133333
+657,Mississippi,Plants,0.755556
+658,Mississippi,Poultry,0.111111
+659,Mississippi,Prepared,0.511111
+660,Mississippi,Seafood,0.111111
+661,Mississippi,Soap,0.688889
+662,Mississippi,Tofu,0
+663,Mississippi,Trees,0.377778
+664,Mississippi,Vegetables,1
+665,Mississippi,WildHarvested,0.133333
+666,Mississippi,Wine,0
+667,Missouri,Bakedgoods,0.89759
+668,Missouri,Beans,0.072289
+669,Missouri,Cheese,0.210843
+670,Missouri,Coffee,0.198795
+671,Missouri,Crafts,0.753012
+672,Missouri,Eggs,0.795181
+673,Missouri,Flowers,0.656627
+674,Missouri,Fruits,0.777108
+675,Missouri,Grains,0.090361
+676,Missouri,Herbs,0.777108
+677,Missouri,Honey,0.783133
+678,Missouri,Jams,0.843373
+679,Missouri,Juices,0.048193
+680,Missouri,Maple,0.090361
+681,Missouri,Meat,0.46988
+682,Missouri,Mushrooms,0.10241
+683,Missouri,Nursery,0.126506
+684,Missouri,Nuts,0.216867
+685,Missouri,PetFood,0.108434
+686,Missouri,Plants,0.777108
+687,Missouri,Poultry,0.313253
+688,Missouri,Prepared,0.53012
+689,Missouri,Seafood,0.036145
+690,Missouri,Soap,0.73494
+691,Missouri,Tofu,0.006024
+692,Missouri,Trees,0.210843
+693,Missouri,Vegetables,0.945783
+694,Missouri,WildHarvested,0.108434
+695,Missouri,Wine,0.048193
+696,Montana,Bakedgoods,0.961538
+697,Montana,Beans,0.076923
+698,Montana,Cheese,0.269231
+699,Montana,Coffee,0.346154
+700,Montana,Crafts,0.865385
+701,Montana,Eggs,0.826923
+702,Montana,Flowers,0.673077
+703,Montana,Fruits,0.730769
+704,Montana,Grains,0.153846
+705,Montana,Herbs,0.75
+706,Montana,Honey,0.653846
+707,Montana,Jams,0.865385
+708,Montana,Juices,0.173077
+709,Montana,Maple,0.076923
+710,Montana,Meat,0.365385
+711,Montana,Mushrooms,0.057692
+712,Montana,Nursery,0.192308
+713,Montana,Nuts,0.134615
+714,Montana,PetFood,0.230769
+715,Montana,Plants,0.711538
+716,Montana,Poultry,0.269231
+717,Montana,Prepared,0.576923
+718,Montana,Seafood,0.096154
+719,Montana,Soap,0.75
+720,Montana,Tofu,0
+721,Montana,Trees,0.307692
+722,Montana,Vegetables,0.961538
+723,Montana,WildHarvested,0.134615
+724,Montana,Wine,0.115385
+725,Nebraska,Bakedgoods,0.927273
+726,Nebraska,Beans,0.072727
+727,Nebraska,Cheese,0.218182
+728,Nebraska,Coffee,0.218182
+729,Nebraska,Crafts,0.709091
+730,Nebraska,Eggs,0.745455
+731,Nebraska,Flowers,0.545455
+732,Nebraska,Fruits,0.8
+733,Nebraska,Grains,0.054545
+734,Nebraska,Herbs,0.763636
+735,Nebraska,Honey,0.690909
+736,Nebraska,Jams,0.818182
+737,Nebraska,Juices,0.054545
+738,Nebraska,Maple,0.145455
+739,Nebraska,Meat,0.363636
+740,Nebraska,Mushrooms,0.072727
+741,Nebraska,Nursery,0.018182
+742,Nebraska,Nuts,0.254545
+743,Nebraska,PetFood,0.163636
+744,Nebraska,Plants,0.490909
+745,Nebraska,Poultry,0.345455
+746,Nebraska,Prepared,0.454545
+747,Nebraska,Seafood,0.054545
+748,Nebraska,Soap,0.490909
+749,Nebraska,Tofu,0
+750,Nebraska,Trees,0.163636
+751,Nebraska,Vegetables,1
+752,Nebraska,WildHarvested,0.054545
+753,Nebraska,Wine,0.072727
+754,Nevada,Bakedgoods,0.961538
+755,Nevada,Beans,0.153846
+756,Nevada,Cheese,0.307692
+757,Nevada,Coffee,0.576923
+758,Nevada,Crafts,0.769231
+759,Nevada,Eggs,0.692308
+760,Nevada,Flowers,0.346154
+761,Nevada,Fruits,0.846154
+762,Nevada,Grains,0.153846
+763,Nevada,Herbs,0.846154
+764,Nevada,Honey,0.961538
+765,Nevada,Jams,0.846154
+766,Nevada,Juices,0.384615
+767,Nevada,Maple,0.153846
+768,Nevada,Meat,0.384615
+769,Nevada,Mushrooms,0.115385
+770,Nevada,Nursery,0.038462
+771,Nevada,Nuts,0.538462
+772,Nevada,PetFood,0.384615
+773,Nevada,Plants,0.346154
+774,Nevada,Poultry,0
+775,Nevada,Prepared,0.730769
+776,Nevada,Seafood,0.230769
+777,Nevada,Soap,0.769231
+778,Nevada,Tofu,0.115385
+779,Nevada,Trees,0.153846
+780,Nevada,Vegetables,1
+781,Nevada,WildHarvested,0.153846
+782,Nevada,Wine,0.038462
+783,New Hampshire,Bakedgoods,0.971014
+784,New Hampshire,Beans,0.318841
+785,New Hampshire,Cheese,0.73913
+786,New Hampshire,Coffee,0.347826
+787,New Hampshire,Crafts,0.782609
+788,New Hampshire,Eggs,0.913043
+789,New Hampshire,Flowers,0.768116
+790,New Hampshire,Fruits,0.724638
+791,New Hampshire,Grains,0.115942
+792,New Hampshire,Herbs,0.855072
+793,New Hampshire,Honey,0.811594
+794,New Hampshire,Jams,0.913043
+795,New Hampshire,Juices,0.202899
+796,New Hampshire,Maple,0.884058
+797,New Hampshire,Meat,0.855072
+798,New Hampshire,Mushrooms,0.231884
+799,New Hampshire,Nursery,0.072464
+800,New Hampshire,Nuts,0.101449
+801,New Hampshire,PetFood,0.217391
+802,New Hampshire,Plants,0.637681
+803,New Hampshire,Poultry,0.710145
+804,New Hampshire,Prepared,0.826087
+805,New Hampshire,Seafood,0.347826
+806,New Hampshire,Soap,0.855072
+807,New Hampshire,Tofu,0
+808,New Hampshire,Trees,0.15942
+809,New Hampshire,Vegetables,0.971014
+810,New Hampshire,WildHarvested,0.15942
+811,New Hampshire,Wine,0.434783
+812,New Jersey,Bakedgoods,0.855769
+813,New Jersey,Beans,0.048077
+814,New Jersey,Cheese,0.644231
+815,New Jersey,Coffee,0.403846
+816,New Jersey,Crafts,0.509615
+817,New Jersey,Eggs,0.653846
+818,New Jersey,Flowers,0.778846
+819,New Jersey,Fruits,0.682692
+820,New Jersey,Grains,0.125
+821,New Jersey,Herbs,0.759615
+822,New Jersey,Honey,0.855769
+823,New Jersey,Jams,0.807692
+824,New Jersey,Juices,0.365385
+825,New Jersey,Maple,0.201923
+826,New Jersey,Meat,0.509615
+827,New Jersey,Mushrooms,0.211538
+828,New Jersey,Nursery,0.086538
+829,New Jersey,Nuts,0.451923
+830,New Jersey,PetFood,0.192308
+831,New Jersey,Plants,0.519231
+832,New Jersey,Poultry,0.394231
+833,New Jersey,Prepared,0.769231
+834,New Jersey,Seafood,0.317308
+835,New Jersey,Soap,0.663462
+836,New Jersey,Tofu,0.038462
+837,New Jersey,Trees,0.153846
+838,New Jersey,Vegetables,0.971154
+839,New Jersey,WildHarvested,0.134615
+840,New Jersey,Wine,0.240385
+841,New Mexico,Bakedgoods,0.482143
+842,New Mexico,Beans,0.178571
+843,New Mexico,Cheese,0.214286
+844,New Mexico,Coffee,0.125
+845,New Mexico,Crafts,0.446429
+846,New Mexico,Eggs,0.553571
+847,New Mexico,Flowers,0.357143
+848,New Mexico,Fruits,0.696429
+849,New Mexico,Grains,0.142857
+850,New Mexico,Herbs,0.464286
+851,New Mexico,Honey,0.517857
+852,New Mexico,Jams,0.392857
+853,New Mexico,Juices,0.125
+854,New Mexico,Maple,0
+855,New Mexico,Meat,0.25
+856,New Mexico,Mushrooms,0.053571
+857,New Mexico,Nursery,0.035714
+858,New Mexico,Nuts,0.285714
+859,New Mexico,PetFood,0.089286
+860,New Mexico,Plants,0.232143
+861,New Mexico,Poultry,0.125
+862,New Mexico,Prepared,0.267857
+863,New Mexico,Seafood,0.035714
+864,New Mexico,Soap,0.375
+865,New Mexico,Tofu,0.017857
+866,New Mexico,Trees,0.178571
+867,New Mexico,Vegetables,0.785714
+868,New Mexico,WildHarvested,0.089286
+869,New Mexico,Wine,0.017857
+870,New York,Bakedgoods,0.806667
+871,New York,Beans,0.062222
+872,New York,Cheese,0.553333
+873,New York,Coffee,0.253333
+874,New York,Crafts,0.437778
+875,New York,Eggs,0.688889
+876,New York,Flowers,0.575556
+877,New York,Fruits,0.764444
+878,New York,Grains,0.084444
+879,New York,Herbs,0.657778
+880,New York,Honey,0.704444
+881,New York,Jams,0.695556
+882,New York,Juices,0.186667
+883,New York,Maple,0.564444
+884,New York,Meat,0.542222
+885,New York,Mushrooms,0.213333
+886,New York,Nursery,0.06
+887,New York,Nuts,0.155556
+888,New York,PetFood,0.12
+889,New York,Plants,0.562222
+890,New York,Poultry,0.491111
+891,New York,Prepared,0.46
+892,New York,Seafood,0.186667
+893,New York,Soap,0.5
+894,New York,Tofu,0.04
+895,New York,Trees,0.151111
+896,New York,Vegetables,0.946667
+897,New York,WildHarvested,0.106667
+898,New York,Wine,0.377778
+899,North Carolina,Bakedgoods,0.871166
+900,North Carolina,Beans,0.153374
+901,North Carolina,Cheese,0.521472
+902,North Carolina,Coffee,0.306748
+903,North Carolina,Crafts,0.754601
+904,North Carolina,Eggs,0.846626
+905,North Carolina,Flowers,0.803681
+906,North Carolina,Fruits,0.865031
+907,North Carolina,Grains,0.177914
+908,North Carolina,Herbs,0.815951
+909,North Carolina,Honey,0.865031
+910,North Carolina,Jams,0.828221
+911,North Carolina,Juices,0.202454
+912,North Carolina,Maple,0.092025
+913,North Carolina,Meat,0.656442
+914,North Carolina,Mushrooms,0.355828
+915,North Carolina,Nursery,0.02454
+916,North Carolina,Nuts,0.337423
+917,North Carolina,PetFood,0.177914
+918,North Carolina,Plants,0.803681
+919,North Carolina,Poultry,0.588957
+920,North Carolina,Prepared,0.521472
+921,North Carolina,Seafood,0.331288
+922,North Carolina,Soap,0.717791
+923,North Carolina,Tofu,0.01227
+924,North Carolina,Trees,0.466258
+925,North Carolina,Vegetables,0.97546
+926,North Carolina,WildHarvested,0.159509
+927,North Carolina,Wine,0.208589
+928,North Dakota,Bakedgoods,1
+929,North Dakota,Beans,0.0625
+930,North Dakota,Cheese,0.0625
+931,North Dakota,Coffee,0.0625
+932,North Dakota,Crafts,0.75
+933,North Dakota,Eggs,0.25
+934,North Dakota,Flowers,0.6875
+935,North Dakota,Fruits,0.5625
+936,North Dakota,Grains,0.125
+937,North Dakota,Herbs,0.625
+938,North Dakota,Honey,0.5
+939,North Dakota,Jams,0.875
+940,North Dakota,Juices,0
+941,North Dakota,Maple,0.0625
+942,North Dakota,Meat,0.1875
+943,North Dakota,Mushrooms,0
+944,North Dakota,Nursery,0
+945,North Dakota,Nuts,0
+946,North Dakota,PetFood,0.0625
+947,North Dakota,Plants,0.5
+948,North Dakota,Poultry,0.125
+949,North Dakota,Prepared,0.375
+950,North Dakota,Seafood,0
+951,North Dakota,Soap,0.4375
+952,North Dakota,Tofu,0
+953,North Dakota,Trees,0
+954,North Dakota,Vegetables,0.9375
+955,North Dakota,WildHarvested,0
+956,North Dakota,Wine,0.0625
+957,Ohio,Bakedgoods,0.951087
+958,Ohio,Beans,0.146739
+959,Ohio,Cheese,0.478261
+960,Ohio,Coffee,0.418478
+961,Ohio,Crafts,0.608696
+962,Ohio,Eggs,0.673913
+963,Ohio,Flowers,0.733696
+964,Ohio,Fruits,0.896739
+965,Ohio,Grains,0.179348
+966,Ohio,Herbs,0.820652
+967,Ohio,Honey,0.858696
+968,Ohio,Jams,0.86413
+969,Ohio,Juices,0.25
+970,Ohio,Maple,0.679348
+971,Ohio,Meat,0.554348
+972,Ohio,Mushrooms,0.201087
+973,Ohio,Nursery,0.032609
+974,Ohio,Nuts,0.152174
+975,Ohio,PetFood,0.26087
+976,Ohio,Plants,0.733696
+977,Ohio,Poultry,0.505435
+978,Ohio,Prepared,0.538043
+979,Ohio,Seafood,0.065217
+980,Ohio,Soap,0.771739
+981,Ohio,Tofu,0.027174
+982,Ohio,Trees,0.25
+983,Ohio,Vegetables,0.983696
+984,Ohio,WildHarvested,0.108696
+985,Ohio,Wine,0.081522
+986,Oklahoma,Bakedgoods,0.558824
+987,Oklahoma,Beans,0.029412
+988,Oklahoma,Cheese,0.294118
+989,Oklahoma,Coffee,0.088235
+990,Oklahoma,Crafts,0.647059
+991,Oklahoma,Eggs,0.676471
+992,Oklahoma,Flowers,0.529412
+993,Oklahoma,Fruits,0.676471
+994,Oklahoma,Grains,0.058824
+995,Oklahoma,Herbs,0.764706
+996,Oklahoma,Honey,0.676471
+997,Oklahoma,Jams,0.588235
+998,Oklahoma,Juices,0.058824
+999,Oklahoma,Maple,0.058824
+1000,Oklahoma,Meat,0.5
+1001,Oklahoma,Mushrooms,0.117647
+1002,Oklahoma,Nursery,0.058824
+1003,Oklahoma,Nuts,0.411765
+1004,Oklahoma,PetFood,0.147059
+1005,Oklahoma,Plants,0.735294
+1006,Oklahoma,Poultry,0.294118
+1007,Oklahoma,Prepared,0.441176
+1008,Oklahoma,Seafood,0.029412
+1009,Oklahoma,Soap,0.705882
+1010,Oklahoma,Tofu,0.029412
+1011,Oklahoma,Trees,0.205882
+1012,Oklahoma,Vegetables,0.970588
+1013,Oklahoma,WildHarvested,0.029412
+1014,Oklahoma,Wine,0.117647
+1015,Oregon,Bakedgoods,0.786885
+1016,Oregon,Beans,0.172131
+1017,Oregon,Cheese,0.467213
+1018,Oregon,Coffee,0.434426
+1019,Oregon,Crafts,0.647541
+1020,Oregon,Eggs,0.737705
+1021,Oregon,Flowers,0.754098
+1022,Oregon,Fruits,0.786885
+1023,Oregon,Grains,0.221311
+1024,Oregon,Herbs,0.754098
+1025,Oregon,Honey,0.770492
+1026,Oregon,Jams,0.811475
+1027,Oregon,Juices,0.303279
+1028,Oregon,Maple,0.040984
+1029,Oregon,Meat,0.622951
+1030,Oregon,Mushrooms,0.360656
+1031,Oregon,Nursery,0.02459
+1032,Oregon,Nuts,0.47541
+1033,Oregon,PetFood,0.188525
+1034,Oregon,Plants,0.688525
+1035,Oregon,Poultry,0.5
+1036,Oregon,Prepared,0.762295
+1037,Oregon,Seafood,0.409836
+1038,Oregon,Soap,0.688525
+1039,Oregon,Tofu,0.065574
+1040,Oregon,Trees,0.491803
+1041,Oregon,Vegetables,0.868852
+1042,Oregon,WildHarvested,0.368852
+1043,Oregon,Wine,0.418033
+1044,Pennsylvania,Bakedgoods,0.8125
+1045,Pennsylvania,Beans,0.090278
+1046,Pennsylvania,Cheese,0.5625
+1047,Pennsylvania,Coffee,0.4375
+1048,Pennsylvania,Crafts,0.409722
+1049,Pennsylvania,Eggs,0.652778
+1050,Pennsylvania,Flowers,0.604167
+1051,Pennsylvania,Fruits,0.868056
+1052,Pennsylvania,Grains,0.152778
+1053,Pennsylvania,Herbs,0.618056
+1054,Pennsylvania,Honey,0.659722
+1055,Pennsylvania,Jams,0.659722
+1056,Pennsylvania,Juices,0.277778
+1057,Pennsylvania,Maple,0.4375
+1058,Pennsylvania,Meat,0.534722
+1059,Pennsylvania,Mushrooms,0.3125
+1060,Pennsylvania,Nursery,0.034722
+1061,Pennsylvania,Nuts,0.145833
+1062,Pennsylvania,PetFood,0.229167
+1063,Pennsylvania,Plants,0.493056
+1064,Pennsylvania,Poultry,0.472222
+1065,Pennsylvania,Prepared,0.576389
+1066,Pennsylvania,Seafood,0.138889
+1067,Pennsylvania,Soap,0.576389
+1068,Pennsylvania,Tofu,0.034722
+1069,Pennsylvania,Trees,0.145833
+1070,Pennsylvania,Vegetables,0.958333
+1071,Pennsylvania,WildHarvested,0.125
+1072,Pennsylvania,Wine,0.319444
+1073,Rhode Island,Bakedgoods,0.676471
+1074,Rhode Island,Beans,0.117647
+1075,Rhode Island,Cheese,0.5
+1076,Rhode Island,Coffee,0.441176
+1077,Rhode Island,Crafts,0.323529
+1078,Rhode Island,Eggs,0.676471
+1079,Rhode Island,Flowers,0.529412
+1080,Rhode Island,Fruits,0.970588
+1081,Rhode Island,Grains,0.117647
+1082,Rhode Island,Herbs,0.647059
+1083,Rhode Island,Honey,0.705882
+1084,Rhode Island,Jams,0.529412
+1085,Rhode Island,Juices,0.411765
+1086,Rhode Island,Maple,0.294118
+1087,Rhode Island,Meat,0.470588
+1088,Rhode Island,Mushrooms,0.323529
+1089,Rhode Island,Nursery,0
+1090,Rhode Island,Nuts,0.058824
+1091,Rhode Island,PetFood,0.264706
+1092,Rhode Island,Plants,0.470588
+1093,Rhode Island,Poultry,0.411765
+1094,Rhode Island,Prepared,0.617647
+1095,Rhode Island,Seafood,0.382353
+1096,Rhode Island,Soap,0.588235
+1097,Rhode Island,Tofu,0.029412
+1098,Rhode Island,Trees,0.088235
+1099,Rhode Island,Vegetables,0.970588
+1100,Rhode Island,WildHarvested,0.088235
+1101,Rhode Island,Wine,0
+1102,South Carolina,Bakedgoods,0.865672
+1103,South Carolina,Beans,0.164179
+1104,South Carolina,Cheese,0.671642
+1105,South Carolina,Coffee,0.432836
+1106,South Carolina,Crafts,0.716418
+1107,South Carolina,Eggs,0.820896
+1108,South Carolina,Flowers,0.567164
+1109,South Carolina,Fruits,0.820896
+1110,South Carolina,Grains,0.19403
+1111,South Carolina,Herbs,0.716418
+1112,South Carolina,Honey,0.880597
+1113,South Carolina,Jams,0.776119
+1114,South Carolina,Juices,0.343284
+1115,South Carolina,Maple,0.19403
+1116,South Carolina,Meat,0.656716
+1117,South Carolina,Mushrooms,0.134328
+1118,South Carolina,Nursery,0.074627
+1119,South Carolina,Nuts,0.462687
+1120,South Carolina,PetFood,0.19403
+1121,South Carolina,Plants,0.58209
+1122,South Carolina,Poultry,0.447761
+1123,South Carolina,Prepared,0.641791
+1124,South Carolina,Seafood,0.537313
+1125,South Carolina,Soap,0.761194
+1126,South Carolina,Tofu,0.044776
+1127,South Carolina,Trees,0.477612
+1128,South Carolina,Vegetables,0.955224
+1129,South Carolina,WildHarvested,0.104478
+1130,South Carolina,Wine,0.104478
+1131,South Dakota,Bakedgoods,0.913043
+1132,South Dakota,Beans,0.26087
+1133,South Dakota,Cheese,0.347826
+1134,South Dakota,Coffee,0.391304
+1135,South Dakota,Crafts,0.73913
+1136,South Dakota,Eggs,0.826087
+1137,South Dakota,Flowers,0.695652
+1138,South Dakota,Fruits,0.73913
+1139,South Dakota,Grains,0.217391
+1140,South Dakota,Herbs,0.913043
+1141,South Dakota,Honey,0.956522
+1142,South Dakota,Jams,0.826087
+1143,South Dakota,Juices,0
+1144,South Dakota,Maple,0.086957
+1145,South Dakota,Meat,0.565217
+1146,South Dakota,Mushrooms,0
+1147,South Dakota,Nursery,0.043478
+1148,South Dakota,Nuts,0
+1149,South Dakota,PetFood,0.173913
+1150,South Dakota,Plants,0.521739
+1151,South Dakota,Poultry,0.478261
+1152,South Dakota,Prepared,0.608696
+1153,South Dakota,Seafood,0.086957
+1154,South Dakota,Soap,0.782609
+1155,South Dakota,Tofu,0.043478
+1156,South Dakota,Trees,0.130435
+1157,South Dakota,Vegetables,1
+1158,South Dakota,WildHarvested,0.043478
+1159,South Dakota,Wine,0.043478
+1160,Tennessee,Bakedgoods,0.926829
+1161,Tennessee,Beans,0.134146
+1162,Tennessee,Cheese,0.487805
+1163,Tennessee,Coffee,0.414634
+1164,Tennessee,Crafts,0.682927
+1165,Tennessee,Eggs,0.865854
+1166,Tennessee,Flowers,0.743902
+1167,Tennessee,Fruits,0.865854
+1168,Tennessee,Grains,0.280488
+1169,Tennessee,Herbs,0.841463
+1170,Tennessee,Honey,0.926829
+1171,Tennessee,Jams,0.902439
+1172,Tennessee,Juices,0.292683
+1173,Tennessee,Maple,0.158537
+1174,Tennessee,Meat,0.743902
+1175,Tennessee,Mushrooms,0.378049
+1176,Tennessee,Nursery,0.012195
+1177,Tennessee,Nuts,0.317073
+1178,Tennessee,PetFood,0.329268
+1179,Tennessee,Plants,0.707317
+1180,Tennessee,Poultry,0.573171
+1181,Tennessee,Prepared,0.609756
+1182,Tennessee,Seafood,0.195122
+1183,Tennessee,Soap,0.792683
+1184,Tennessee,Tofu,0.036585
+1185,Tennessee,Trees,0.317073
+1186,Tennessee,Vegetables,0.97561
+1187,Tennessee,WildHarvested,0.219512
+1188,Tennessee,Wine,0.036585
+1189,Texas,Bakedgoods,0.92126
+1190,Texas,Beans,0.15748
+1191,Texas,Cheese,0.488189
+1192,Texas,Coffee,0.559055
+1193,Texas,Crafts,0.653543
+1194,Texas,Eggs,0.905512
+1195,Texas,Flowers,0.551181
+1196,Texas,Fruits,0.850394
+1197,Texas,Grains,0.23622
+1198,Texas,Herbs,0.818898
+1199,Texas,Honey,0.889764
+1200,Texas,Jams,0.92126
+1201,Texas,Juices,0.362205
+1202,Texas,Maple,0.204724
+1203,Texas,Meat,0.787402
+1204,Texas,Mushrooms,0.220472
+1205,Texas,Nursery,0.031496
+1206,Texas,Nuts,0.574803
+1207,Texas,PetFood,0.370079
+1208,Texas,Plants,0.645669
+1209,Texas,Poultry,0.582677
+1210,Texas,Prepared,0.692913
+1211,Texas,Seafood,0.259843
+1212,Texas,Soap,0.88189
+1213,Texas,Tofu,0.055118
+1214,Texas,Trees,0.377953
+1215,Texas,Vegetables,0.976378
+1216,Texas,WildHarvested,0.228346
+1217,Texas,Wine,0.267717
+1218,Utah,Bakedgoods,0.967742
+1219,Utah,Beans,0.193548
+1220,Utah,Cheese,0.548387
+1221,Utah,Coffee,0.483871
+1222,Utah,Crafts,0.774194
+1223,Utah,Eggs,0.806452
+1224,Utah,Flowers,0.548387
+1225,Utah,Fruits,0.870968
+1226,Utah,Grains,0.129032
+1227,Utah,Herbs,0.870968
+1228,Utah,Honey,0.903226
+1229,Utah,Jams,0.806452
+1230,Utah,Juices,0.354839
+1231,Utah,Maple,0.064516
+1232,Utah,Meat,0.516129
+1233,Utah,Mushrooms,0.193548
+1234,Utah,Nursery,0.064516
+1235,Utah,Nuts,0.322581
+1236,Utah,PetFood,0.193548
+1237,Utah,Plants,0.548387
+1238,Utah,Poultry,0.258065
+1239,Utah,Prepared,0.741935
+1240,Utah,Seafood,0.193548
+1241,Utah,Soap,0.83871
+1242,Utah,Tofu,0
+1243,Utah,Trees,0.193548
+1244,Utah,Vegetables,1
+1245,Utah,WildHarvested,0.193548
+1246,Utah,Wine,0.064516
+1247,Vermont,Bakedgoods,0.970588
+1248,Vermont,Beans,0.235294
+1249,Vermont,Cheese,0.661765
+1250,Vermont,Coffee,0.441176
+1251,Vermont,Crafts,0.926471
+1252,Vermont,Eggs,0.852941
+1253,Vermont,Flowers,0.735294
+1254,Vermont,Fruits,0.779412
+1255,Vermont,Grains,0.117647
+1256,Vermont,Herbs,0.867647
+1257,Vermont,Honey,0.794118
+1258,Vermont,Jams,0.941176
+1259,Vermont,Juices,0.470588
+1260,Vermont,Maple,0.897059
+1261,Vermont,Meat,0.794118
+1262,Vermont,Mushrooms,0.279412
+1263,Vermont,Nursery,0.058824
+1264,Vermont,Nuts,0.088235
+1265,Vermont,PetFood,0.132353
+1266,Vermont,Plants,0.735294
+1267,Vermont,Poultry,0.720588
+1268,Vermont,Prepared,0.911765
+1269,Vermont,Seafood,0.102941
+1270,Vermont,Soap,0.794118
+1271,Vermont,Tofu,0.088235
+1272,Vermont,Trees,0.161765
+1273,Vermont,Vegetables,0.955882
+1274,Vermont,WildHarvested,0.367647
+1275,Vermont,Wine,0.352941
+1276,Virginia,Bakedgoods,0.966851
+1277,Virginia,Beans,0.149171
+1278,Virginia,Cheese,0.558011
+1279,Virginia,Coffee,0.40884
+1280,Virginia,Crafts,0.662983
+1281,Virginia,Eggs,0.928177
+1282,Virginia,Flowers,0.773481
+1283,Virginia,Fruits,0.889503
+1284,Virginia,Grains,0.110497
+1285,Virginia,Herbs,0.828729
+1286,Virginia,Honey,0.812155
+1287,Virginia,Jams,0.906077
+1288,Virginia,Juices,0.303867
+1289,Virginia,Maple,0.187845
+1290,Virginia,Meat,0.790055
+1291,Virginia,Mushrooms,0.320442
+1292,Virginia,Nursery,0.038674
+1293,Virginia,Nuts,0.325967
+1294,Virginia,PetFood,0.298343
+1295,Virginia,Plants,0.762431
+1296,Virginia,Poultry,0.696133
+1297,Virginia,Prepared,0.740331
+1298,Virginia,Seafood,0.337017
+1299,Virginia,Soap,0.740331
+1300,Virginia,Tofu,0.038674
+1301,Virginia,Trees,0.40884
+1302,Virginia,Vegetables,0.977901
+1303,Virginia,WildHarvested,0.176796
+1304,Virginia,Wine,0.254144
+1305,Washington,Bakedgoods,0.931298
+1306,Washington,Beans,0.274809
+1307,Washington,Cheese,0.709924
+1308,Washington,Coffee,0.412214
+1309,Washington,Crafts,0.770992
+1310,Washington,Eggs,0.770992
+1311,Washington,Flowers,0.916031
+1312,Washington,Fruits,0.89313
+1313,Washington,Grains,0.099237
+1314,Washington,Herbs,0.862595
+1315,Washington,Honey,0.908397
+1316,Washington,Jams,0.847328
+1317,Washington,Juices,0.305344
+1318,Washington,Maple,0.030534
+1319,Washington,Meat,0.603053
+1320,Washington,Mushrooms,0.221374
+1321,Washington,Nursery,0.053435
+1322,Washington,Nuts,0.480916
+1323,Washington,PetFood,0.19084
+1324,Washington,Plants,0.755725
+1325,Washington,Poultry,0.48855
+1326,Washington,Prepared,0.839695
+1327,Washington,Seafood,0.450382
+1328,Washington,Soap,0.78626
+1329,Washington,Tofu,0.015267
+1330,Washington,Trees,0.480916
+1331,Washington,Vegetables,0.977099
+1332,Washington,WildHarvested,0.229008
+1333,Washington,Wine,0.450382
+1334,West Virginia,Bakedgoods,0.964286
+1335,West Virginia,Beans,0.125
+1336,West Virginia,Cheese,0.285714
+1337,West Virginia,Coffee,0.25
+1338,West Virginia,Crafts,0.732143
+1339,West Virginia,Eggs,0.875
+1340,West Virginia,Flowers,0.571429
+1341,West Virginia,Fruits,0.785714
+1342,West Virginia,Grains,0.214286
+1343,West Virginia,Herbs,0.785714
+1344,West Virginia,Honey,0.875
+1345,West Virginia,Jams,0.857143
+1346,West Virginia,Juices,0.196429
+1347,West Virginia,Maple,0.482143
+1348,West Virginia,Meat,0.571429
+1349,West Virginia,Mushrooms,0.125
+1350,West Virginia,Nursery,0.035714
+1351,West Virginia,Nuts,0.107143
+1352,West Virginia,PetFood,0.125
+1353,West Virginia,Plants,0.732143
+1354,West Virginia,Poultry,0.535714
+1355,West Virginia,Prepared,0.392857
+1356,West Virginia,Seafood,0.107143
+1357,West Virginia,Soap,0.642857
+1358,West Virginia,Tofu,0
+1359,West Virginia,Trees,0.267857
+1360,West Virginia,Vegetables,0.964286
+1361,West Virginia,WildHarvested,0.107143
+1362,West Virginia,Wine,0.035714
+1363,Wisconsin,Bakedgoods,0.877551
+1364,Wisconsin,Beans,0.163265
+1365,Wisconsin,Cheese,0.494898
+1366,Wisconsin,Coffee,0.341837
+1367,Wisconsin,Crafts,0.688776
+1368,Wisconsin,Eggs,0.647959
+1369,Wisconsin,Flowers,0.857143
+1370,Wisconsin,Fruits,0.785714
+1371,Wisconsin,Grains,0.137755
+1372,Wisconsin,Herbs,0.872449
+1373,Wisconsin,Honey,0.892857
+1374,Wisconsin,Jams,0.908163
+1375,Wisconsin,Juices,0.214286
+1376,Wisconsin,Maple,0.734694
+1377,Wisconsin,Meat,0.617347
+1378,Wisconsin,Mushrooms,0.346939
+1379,Wisconsin,Nursery,0.096939
+1380,Wisconsin,Nuts,0.183673
+1381,Wisconsin,PetFood,0.163265
+1382,Wisconsin,Plants,0.734694
+1383,Wisconsin,Poultry,0.515306
+1384,Wisconsin,Prepared,0.55102
+1385,Wisconsin,Seafood,0.265306
+1386,Wisconsin,Soap,0.760204
+1387,Wisconsin,Tofu,0.020408
+1388,Wisconsin,Trees,0.285714
+1389,Wisconsin,Vegetables,0.969388
+1390,Wisconsin,WildHarvested,0.188776
+1391,Wisconsin,Wine,0.040816
+1392,Wyoming,Bakedgoods,0.967742
+1393,Wyoming,Beans,0.064516
+1394,Wyoming,Cheese,0.516129
+1395,Wyoming,Coffee,0.387097
+1396,Wyoming,Crafts,0.774194
+1397,Wyoming,Eggs,0.806452
+1398,Wyoming,Flowers,0.322581
+1399,Wyoming,Fruits,0.612903
+1400,Wyoming,Grains,0.16129
+1401,Wyoming,Herbs,0.709677
+1402,Wyoming,Honey,0.677419
+1403,Wyoming,Jams,0.903226
+1404,Wyoming,Juices,0.129032
+1405,Wyoming,Maple,0.129032
+1406,Wyoming,Meat,0.516129
+1407,Wyoming,Mushrooms,0.16129
+1408,Wyoming,Nursery,0.064516
+1409,Wyoming,Nuts,0.16129
+1410,Wyoming,PetFood,0.096774
+1411,Wyoming,Plants,0.290323
+1412,Wyoming,Poultry,0.354839
+1413,Wyoming,Prepared,0.516129
+1414,Wyoming,Seafood,0.16129
+1415,Wyoming,Soap,0.774194
+1416,Wyoming,Tofu,0
+1417,Wyoming,Trees,0.129032
+1418,Wyoming,Vegetables,0.935484
+1419,Wyoming,WildHarvested,0.096774
+1420,Wyoming,Wine,0.064516
